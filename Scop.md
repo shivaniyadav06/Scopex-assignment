@@ -36,6 +36,6 @@ In this test scenario we are going to test the sign up page
 
 
 
-![image1]:(test1.png)
+![image1](test1.png)
 
 <!-- [image2]:  -->
