@@ -1,0 +1,14 @@
+{
+  "name": "scopex-assignment",
+  "version": "1.0.0",
+  "description": "### **Test Case ID:** TC001   ### **Title:** Verify User Signup Functionality   #### **Description:** Check if a user can signup with email.",
+  "main": "signup.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
